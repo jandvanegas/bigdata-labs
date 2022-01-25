@@ -1,8 +1,8 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="DriverBigData" type="Application" factoryName="Application" nameIsGenerated="true">
     <option name="MAIN_CLASS_NAME" value="it.polito.bigdata.hadoop.DriverBigData" />
-    <module name="Lab1_BigData_with_libraries" />
-    <option name="PROGRAM_PARAMETERS" value="1 ../data output" />
+    <module name="lab2" />
+    <option name="PROGRAM_PARAMETERS" value="1 ../data output ho" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="it.polito.bigdata.hadoop.*" />

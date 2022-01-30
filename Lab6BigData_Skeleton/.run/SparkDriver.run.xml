@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SparkDriver" type="Application" factoryName="Application" editBeforeRun="true" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="it.polito.bigdata.spark.example.SparkDriver" />
+    <module name="Lab6_Skeleton" />
+    <option name="PROGRAM_PARAMETERS" value="data output" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="it.polito.bigdata.spark.example.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_removelab6" />
+    </method>
+  </configuration>
+</component>
